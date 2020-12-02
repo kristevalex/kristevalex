@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**kristevalex/kristevalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there, I'm Alexey 👋
 
 ## I am developing games, software and writing articles!!
@@ -41,8 +24,10 @@ Here are some ideas to get you started:
 <img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="Tex" width="26px" src="tex.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-<img align="left" alt="Gatsby" width="26px" src="unity" />
+<img align="left" alt="Unity" width="26px" src="unity.png" />
 
 
 [youtube]: https://www.youtube.com/channel/UCjzC1OeqPzCUtHXggUwJ1Pw
