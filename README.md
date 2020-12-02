@@ -4,7 +4,7 @@
 
 - ⚡ I am winner of National Olimpiad in math
 - 🔭 I also teach math and programming  
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Finish 2020 projects)
 - 💬 Fun fact: I love to draw and kiting, climbing, acrobatics and volleyball
 
 ### Connect with me:
